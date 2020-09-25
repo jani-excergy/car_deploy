@@ -11,7 +11,6 @@ import jsonify
 import requests
 import pickle
 import numpy as np
-import xgboost as xgb
 import sklearn
 
 app = Flask(__name__)
